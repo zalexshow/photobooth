@@ -103,11 +103,11 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='https://github.com/MJC-Vaugneray/photobooth',  # Optional
+    url='https://github.com/zalexshow/photobooth',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
-    author='MJC-Vaugneray',  # Optional
+    author='The Zalex Show',  # Optional
 
     # This should be a valid email address corresponding to the author listed
     # above.
